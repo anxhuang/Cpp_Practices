@@ -1,10 +1,4 @@
-//
-//  prime.c
-//  1062
-//
-//  Created by user on 2022/7/3.
-//
-
+#include <stdio.h>
 #include "prime.h"
 
 int IsPrime(int num) {

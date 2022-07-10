@@ -8,8 +8,6 @@
 #ifndef prime_h
 #define prime_h
 
-#include <stdio.h>
-
 int IsPrime(int num);
 
 #endif /* prime_h */
